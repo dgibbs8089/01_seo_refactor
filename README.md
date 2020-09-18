@@ -1,3 +1,4 @@
+David's additions:
 - Semantic html has been added
 - Alt attributes have been added
 - Code has been condensed to eliminate excess code
